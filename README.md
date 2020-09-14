@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Git gud.
-
+- Link to my profile: [Here](https://www.jaikumxr.tech) 🌐
 - 🔭 I’m currently working on GSAP Animations
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Node.js projects
